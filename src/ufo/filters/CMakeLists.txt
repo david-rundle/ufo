@@ -50,6 +50,8 @@ set ( filters_files
       ObsDomainErrCheck.h
       ObsFilterData.cc
       ObsFilterData.h
+      PracticalBoundsCheck.h
+      PracticalBoundsCheck.cc
       PreQC.cc
       PreQC.h
       QCflags.h
